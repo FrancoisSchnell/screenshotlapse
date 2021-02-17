@@ -6,8 +6,8 @@
 
 ### Features
 
-- takes screenshots at given intervals
-- automatically numbered : 1.png, 2.png, etc
+- takes screenshots at given intervals in date-time folders
+- screenshots are automatically numbered : 1.png, 2.png, etc
 
 Afterwards you need to open the screenshots folder in a video editor program like Davinci Resolve (free) to adjust and render your timelapse
 
